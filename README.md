@@ -46,3 +46,6 @@ from sklearn.linear_model import LogisticRegression
 model = LogisticRegression()
 model.fit(X_train, y_train)
 
+##🖼️ Output Screenshot
+![Task 3 Output](task3_output.png)
+
